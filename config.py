@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "25437222"))
 API_HASH = getenv("API_HASH", "e545c7cad8afacc8f84d8b02e291ef0a")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "6967749316:AAEhtBYXPsuFsAgaHY4zGFrgqxJdK_xMsik")
+BOT_TOKEN = getenv("BOT_TOKEN", "6967749316:AAF8sFC0EHqzrnm8U0lm5Ho5BxCYuUDFjOo")
 
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME", "Groovy_music_bot")
