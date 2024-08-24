@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME", "Groovy_music_bot")
 BOT_NAME = getenv("BOT_NAME", "Groovymusic")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://mickyxafk:1234@afk.whgbons.mongodb.net")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Zeus:stkeditz121@cluster0.oh0nwwf.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
 
